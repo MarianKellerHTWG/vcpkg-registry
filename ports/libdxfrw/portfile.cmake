@@ -3,7 +3,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO LibreCAD/libdxfrw
     REF master
-    SHA512 c0ca76628005a80e93ffbd5b62a447aa1d041d89
+    SHA512 0
     HEAD_REF master
 )
 vcpkg_configure_cmake(
