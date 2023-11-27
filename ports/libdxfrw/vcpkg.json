@@ -1,0 +1,6 @@
+{
+	"name": "libdxfrw",
+	"version": "1.0.0",
+	"description": "libdxfrw is a free C++ library to read and write DXF files in both formats, ascii and binary form.",
+	"homepage": "https://github.com/LibreCAD/libdxfrw"
+}
